@@ -2,7 +2,6 @@
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFF;
-    
 }
 
 .header-section {
@@ -11,7 +10,7 @@
 }
 
 .logo-web {
-    color: var(--IRIS, #4d5ae5);
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -21,11 +20,11 @@
 }
 
 .logo-studio {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 }
 
 .nav-menu {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:#2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
@@ -33,7 +32,7 @@
 }
 
 .nav-menu a:hover, .nav-menu a:focus {
-    color: var(--OCEAN, #404BBF);
+    color: #404BBF;
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
@@ -46,7 +45,7 @@
 }
 
 .contact-information {
-color: var(--SLATE, #434455);
+color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
@@ -108,12 +107,15 @@ color: var(--NAVY-BLUE, #2E2F42);
 }
 
 .team {
-    background: var(--CLOUD, #F4F4FD);
+    background: #F4F4FD;
+}
+
+.team-field {
+    background-color: #FFFFFF;
 }
 
 .team-title {
-    color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
+    color: #2E2F42;
         font-family: Roboto;
         font-size: 36px;
         font-weight: 700;
